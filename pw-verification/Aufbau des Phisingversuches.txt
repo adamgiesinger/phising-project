@@ -10,4 +10,8 @@
 
 # Versand der Mail an die Opfer
 
-1. 
+1. HTML-formatierte Mail erstellen mit Firmenlogo und Link
+2. Link führt zu einer Seite mit einem Formular
+3. Mail an alle Opfer versenden
+
+	⏎
