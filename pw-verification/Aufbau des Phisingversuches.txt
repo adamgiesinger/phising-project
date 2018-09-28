@@ -1,0 +1,13 @@
+# Aufbau des Phisingversuches
+
+1. Mail versenden an die Opfer mit Link
+2. Link führt zu einer Seite mit einem möglichst echt aussehendem Formular eines Unternehmens
+3. Opfer geben offentlich ihre Daten ein
+4. Daten werden in Datenbank eingetragen
+5. Opfer werden auf echte Seite des Unternehmens weitergeleitet, um keinen Verdacht zu schöpfen
+
+	⏎
+
+# Versand der Mail an die Opfer
+
+1. 
